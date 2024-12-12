@@ -1,3 +1,4 @@
 env/*
 gym-anytrading/*
 .ipynb_checkpoints/*
+/.idea/
